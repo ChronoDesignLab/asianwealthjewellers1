@@ -48,7 +48,6 @@ export default function Hero() {
         autoPlay
         muted
         loop
-        playsInline
       >
         <source src={"/hero.mp4"} type="video/mp4" />
       </video>
