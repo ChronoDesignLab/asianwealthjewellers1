@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import Image2 from "@/Assets/Images/patek.png";
+import Image2 from "@/assets/images/patek.png";
 import { useState } from "react";
 
 export default function Success() {

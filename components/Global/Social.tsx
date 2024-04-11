@@ -1,5 +1,5 @@
 import { BsTelegram } from "react-icons/bs";
-import Logo from '@/Assets/Images/logo.png'
+import Logo from '@/assets/images/logo.png'
 import Image from "next/image";
 
 export default function Social() {

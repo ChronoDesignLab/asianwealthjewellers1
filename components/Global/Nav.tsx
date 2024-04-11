@@ -1,6 +1,6 @@
 "use client";
 import { BsChevronDown, BsSearch } from "react-icons/bs";
-import Logo from "@/Assets/Images/mainlogo.png";
+import Logo from "@/assets/images/mainlogo.png";
 import { usePathname } from "next/navigation";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";

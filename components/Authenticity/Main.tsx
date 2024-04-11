@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { BsPlayBtnFill, BsPlayFill } from "react-icons/bs";
-import Img from '@/Assets/Images/img.jpg'
+import Img from '@/assets/images/img.jpg'
 
 export default function Main() {
   return (
