@@ -15,7 +15,7 @@ export default function Framer() {
         <Main2 />
       </div>
       <div className="h-14"></div>
-      <Success />
+      {/* <Success /> */}
       <Client />
     </motion.div>
   );

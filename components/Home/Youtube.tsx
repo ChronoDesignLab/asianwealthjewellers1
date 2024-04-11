@@ -11,7 +11,7 @@ export default function Youtube() {
     <div className="container my-20 padding">
       <div className="flex flex-col lg:flex-row justify-between pb-5 border-b border-gray-300 gap-4 lg:gap-0 lg:items-center">
         <p className="text-xl lg:text-3xl font-semibold text-black">
-          Big Moe Watches on YouTube
+          Asian Wealth Jewellers on YouTube
         </p>
         <p className="uppercase">See More</p>
       </div>

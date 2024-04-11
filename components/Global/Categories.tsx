@@ -21,7 +21,7 @@ export default function Categories() {
     "oyester bracelet",
     "oyesterflex bracelet",
     "smooth bezel",
-    "big moe's choice",
+    "asian wealth jewellers choice",
     "new for 2024",
     "discountinued model",
     "anniversary model",

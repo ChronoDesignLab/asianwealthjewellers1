@@ -4,7 +4,7 @@ export default function Footer() {
   const links = [
     {
       title: "Company",
-      links: ["Watches", "Authenticity", "Celebrities", "Why Big Moe"],
+      links: ["Watches", "Authenticity", "Celebrities", "Why Asian Wealth Jewellers"],
     },
     {
       title: "Explore",
@@ -37,7 +37,7 @@ export default function Footer() {
         ))}
       </div>
       <div className="container padding text-10 text-gray-400 flex flex-col lg:flex-row py-5 justify-between gap-5 lg:gap-0 lg:items-center">
-        <p>2024 All Rights Reserved | Big Moe Watches</p>
+        <p>2024 All Rights Reserved | Asian Wealth Jewellers</p>
         <p className="">
           Made in Dubai <span className="text-10">AE</span>
         </p>
