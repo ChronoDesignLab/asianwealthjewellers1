@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Video from "next-video";
 import { BsPlayFill } from "react-icons/bs";
-import Img from '@/agssets/images/img.jpg'
+import Img from '@/assets/images/img.jpg'
 
 export default function Main2() {
   return (
