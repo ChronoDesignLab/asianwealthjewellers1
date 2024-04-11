@@ -21,7 +21,7 @@ export default async function Framer() {
       <TypeA title="Most Popular Watches" />
       <TypeA title="For Her" />
       <Youtube />
-      <Social />
+      {/* <Social /> */}
       <div className="h-10"></div>
       <Client />
       <div className="h-28"></div>

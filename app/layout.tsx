@@ -28,7 +28,7 @@ export default async function RootLayout({
       <body className={poppins.className}>
         <Nav />
         <div className="">{children}</div>
-        <Link href={`https://wa.me/+2348184564709`} className="p-[6px] duration-300 active:scale-95 pr-7 cursor-pointer rounded-full flex gap-4 items-center fixed bottom-8 text-white right-8 bg-gray-950 z-30">
+        <Link href={`https://wa.me/+447942959595`} className="p-[6px] duration-300 active:scale-95 pr-7 cursor-pointer rounded-full flex gap-4 items-center fixed bottom-8 text-white right-8 bg-gray-950 z-30">
           <div className="h-10 w-10 text-xl rounded-full bg-green-500 center">
             <BsWhatsapp />
           </div>

@@ -49,7 +49,7 @@ export default function Hero() {
         muted
         loop
       >
-        <source src={"/hero.mp4"} type="video/webm" />
+        <source src={"/hero.mp4"} type="video/mp4" />
       </video>
       <div className="h-screen w-screen absolute top-0 left-0 grid lg:hidden grid-cols-2">
         {[1, 2, 3, 4].map((data, key) => (
