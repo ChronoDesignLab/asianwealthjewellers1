@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Logo from '../../Assets/Images/logo.png'
+import Logo from '../../assets/images/logo.png'
 export default function Footer() {
   const links = [
     {

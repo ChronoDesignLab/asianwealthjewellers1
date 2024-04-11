@@ -1,8 +1,8 @@
 import Image from "next/image";
-import Img1 from "@/Assets/Images/sss.jpg";
-import Img2 from "@/Assets/Images/ddd.jpg";
-import Img3 from "@/Assets/Images/ppp.jpg";
-import Img4 from "@/Assets/Images/ggg.jpg";
+import Img1 from "@/assets/images/sss.jpg";
+import Img2 from "@/assets/images/ddd.jpg";
+import Img3 from "@/assets/images/ppp.jpg";
+import Img4 from "@/assets/images/ggg.jpg";
 
 export default function Youtube() {
   const images = [Img1, Img3, Img2, Img4];
