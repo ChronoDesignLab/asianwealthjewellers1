@@ -17,7 +17,7 @@ export default function Changing() {
   ];
 
   https: return (
-    <div className="padding py-20">
+    <div className="padding py-12 lg:py-20">
       <div className=" text-center text-xl text-gray-800 lg:text-2xl xl:text-3xl mb-8 sm:mb-12 mb:mb-16 lg:mb-32 flex flex-col gap-3 font-semibold ">
         <p className="hidden lg:block">We're changing the way people think about the</p>
         <p className="hidden lg:block"> secondary-luxury watch market.</p>
