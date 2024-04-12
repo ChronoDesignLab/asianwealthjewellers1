@@ -2,8 +2,6 @@ import {
   BsChevronDown,
   BsPlayFill,
   BsStar,
-  BsWatch,
-  BsWhatsapp,
 } from "react-icons/bs";
 import { FiWatch } from "react-icons/fi";
 import { IoDiamondOutline } from "react-icons/io5";
@@ -49,7 +47,7 @@ export default function Hero() {
         muted
         loop
       >
-        <source src={"/hero.mp4"} type="video/mp4" />
+        <source src="./hero.mp4" type="video/mp4"></source>
       </video>
       <div className="h-screen w-screen absolute top-0 left-0 grid lg:hidden grid-cols-2">
         {[1, 2, 3, 4].map((data, key) => (

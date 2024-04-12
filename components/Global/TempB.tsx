@@ -8,10 +8,9 @@ type Props = {
     text: string;
     img: string;
   };
-  key: number;
 };
 
-export default function TempB({ watch, key }: Props) {
+export default function TempB({ watch }: Props) {
   return (
     <div className="">
       <div className="h-96 center shadow bg-gray-100 relative">

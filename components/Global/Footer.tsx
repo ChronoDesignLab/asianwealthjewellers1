@@ -50,7 +50,7 @@ export default function Footer() {
       </div>
       <div className="container padding text-11 text-gray-400 flex flex-col lg:flex-row py-5 justify-between gap-5 lg:gap-0 lg:items-center">
         <p>2024 All Rights Reserved | Asian Wealth Jewellers</p>
-        <p className="flex items-center gap-2 text-13">
+        <p className="flex items-center gap-2 ">
           <CiLocationOn className="text-white stroke-2"/>
           <span>12 HayHill, London, United Kingdom</span>
         </p>

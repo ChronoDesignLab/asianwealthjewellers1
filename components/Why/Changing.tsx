@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 
 export default function Changing() {
   const data = [
@@ -19,7 +18,7 @@ export default function Changing() {
 
   https: return (
     <div className="padding py-20">
-      <div className=" text-center text-2xl text-gray-800 lg:text-2xl mb-32 flex flex-col gap-3 font-semibold ">
+      <div className=" text-center text-2xl text-gray-800 lg:text-2xl xl:text-3xl mb-32 flex flex-col gap-3 font-semibold ">
         <p className="">We're changing the way people think about the</p>
         <p>  secondary-luxury watch market.</p>
       </div>
