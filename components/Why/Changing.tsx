@@ -20,25 +20,27 @@ export default function Changing() {
     <div className="padding py-20">
       <div className=" text-center text-2xl text-gray-800 lg:text-2xl xl:text-3xl mb-32 flex flex-col gap-3 font-semibold ">
         <p className="">We're changing the way people think about the</p>
-        <p>  secondary-luxury watch market.</p>
+        <p> secondary-luxury watch market.</p>
       </div>
       <div className="flex flex-col lg:flex-row container3  gap-5">
         <div className="h-[600px] flex-1 w-full">
           <Image
-              alt=""
-              unoptimized
-              src={
-                "https://assets-global.website-files.com/64a2f498d944b4e944093b84/64dc837edc475efb34b04197_Group%2082-p-500.png"
-              }
-              height={0}
-              width={0}
-              className="h-full w-full object-cover"
-            />
+            alt=""
+            unoptimized
+            src={
+              "https://revolutionwatch.com/cdn-cgi/image/width=2560,height=1707,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/08/01-RM-72-01-Lifestyle-Chronograph-scaled.jpg"
+            }
+            height={0}
+            width={0}
+            className="h-full w-full rounded object-cover"
+          />
         </div>
         <div className="lg:pl-14 flex-[1.75] flex flex-col gap-5 justify-evenly">
           {data.map((item, key) => (
             <div className="">
-              <p className="text-[24px] font-semibold text-gray-800">{item[0]}</p>
+              <p className="text-[24px] font-semibold text-gray-800">
+                {item[0]}
+              </p>
               <p className="mt-2 w-[90%] text-sm leading-loose">{item[1]}</p>
             </div>
           ))}

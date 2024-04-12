@@ -30,13 +30,13 @@ export default function About() {
           </p>
         </div>
         <div className=" flex items-center p-5">
-          <div className="h-[550px] w-full md:w-[360px]">
+          <div className="h-[550px] w-full md:w-[450px]">
             <Image
               alt=""
               unoptimized
               src={
-                "https://assets-global.website-files.com/64a2f498d944b4e944093b84/65324c14b0b84e8af15b88e3_Capture%20d%E2%80%99e%CC%81cran%202023-07-31%20a%CC%80%2015.07%201-p-500.png"
-              }
+                "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf457b71e/images/large/d133a600656e5290b377d6e8a23eb7e0.png?sw=750&sh=750&sm=fit&sfrm=png"
+                  }
               width={0}
               height={0}
               className="h-full w-full object-cover"
