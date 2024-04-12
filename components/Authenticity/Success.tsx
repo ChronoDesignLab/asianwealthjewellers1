@@ -21,7 +21,7 @@ export default function Success() {
     },
   ];
   return (
-    <div className="py-20 padding">
+    <div className="py-16 lg:py-20 padding">
       <Title color="black" title="Success Stories" />
       <div className="grid mt-10 grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-2">
         {items.map((data, key) => (
