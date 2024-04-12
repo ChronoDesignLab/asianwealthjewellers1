@@ -27,7 +27,7 @@ export default function Works({ dark }: { dark: boolean }) {
         {data.map((item, key) => (
           <div className="">
             <p className="text-11 font-semibold mb-10">0{key + 1}</p>
-            <p className="text-3xl font-semibold mb-3">{item[0]}</p>
+            <p className="text-2xl lg:text-3xl font-semibold mb-3">{item[0]}</p>
             <p>{item[1]}</p>
           </div>
         ))}
